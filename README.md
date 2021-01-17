@@ -1,4 +1,4 @@
-# 5thdev's development lab:
+# 5thdev development lab:
 
 5thdev is a leading digital agency with solid design and development expertise. We build mobile and web products for startups. Drop us a line.
 
